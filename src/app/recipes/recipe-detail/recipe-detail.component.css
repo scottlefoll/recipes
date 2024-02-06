@@ -1,0 +1,16 @@
+p {
+  margin-left: 20px;
+}
+
+img {
+  border-radius: 10px;
+  max-height: 300px;
+}
+
+button {
+  margin: 10px;
+}
+
+.test {
+  color: green;
+}
